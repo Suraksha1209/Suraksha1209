@@ -7,7 +7,7 @@
 <h3 align="center">Aspiring Data Scientist | Machine Learning | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="photo2.jpeg" width="180" style="border-radius: 50%;"/>
+  <img src="Photo2.jpeg" width="180" style="border-radius: 50%;"/>
 </p>
 
 
