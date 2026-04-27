@@ -10,6 +10,9 @@
   <img src=https://github.com/Suraksha1209/Suraksha1209/blob/main/Photo%20(2).jpeg?raw=true width="180" style="border-radius: 50%;"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/Suraksha1209/Suraksha1209/blob/main/Photo%20(2).jpeg?raw=true" width="180" height="180" style="border-radius:50%">
+</p>
 
 <p align="center">
   <a href="https://github.com/Suraksha1209">
