@@ -6,10 +6,6 @@
 <h1 align="center">Hi 👋, I'm Suraksha Chaudhari </h1>
 <h3 align="center">Aspiring Data Scientist | Machine Learning | AI Enthusiast</h3>
 
-<p align="center">
-  <img src="photo.jpeg" width="180" style="border-radius: 50%;"/>
-</p>
-
 
 
 <p align="center">
