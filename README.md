@@ -7,7 +7,7 @@
 <h3 align="center">Aspiring Data Scientist | Machine Learning | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="Photo2.jpeg" width="180" style="border-radius: 50%;"/>
+  <img src=https://github.com/Suraksha1209/Suraksha1209/blob/main/Photo%20(2).jpeg?raw=true width="180" style="border-radius: 50%;"/>
 </p>
 
 
